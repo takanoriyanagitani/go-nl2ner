@@ -31,3 +31,5 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/nl2ner/nl2ner
